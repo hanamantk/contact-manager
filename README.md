@@ -5,4 +5,6 @@
 
 -cd contact-manager
 
--npm start
+-npm install
+
+-npm start    (starts local dev server at port 3000)
