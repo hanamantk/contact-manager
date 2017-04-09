@@ -1,7 +1,7 @@
 
 -------for installation------------
 
--git clone 
+-git clone https://github.com/hanamantk/contact-manager.git
 
 -cd contact-manager
 
